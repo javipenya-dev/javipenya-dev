@@ -15,6 +15,34 @@
 
 ---
 
+## 🧰 Tech Stack
+
+<p align="center">
+
+<!-- Mainframe -->
+<img src="https://img.shields.io/badge/COBOL-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JCL-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CICS-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TSO%2FISPF-4D4D4D?style=for-the-badge" />
+
+<br><br>
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<br><br>
+
+<!-- Scripting -->
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+</p>
+
+---
+
 ## 🚀 About Me
 
 I am a hybrid-profile developer combining **Mainframe technologies** with **modern DevOps skills**.  
@@ -40,27 +68,19 @@ Sandbox for experiments, ideas, tests and creative exploration.
 
 ---
 
-## 🛠️ Skills
+## 📊 GitHub Stats
 
-### **Mainframe**
-- COBOL  
-- JCL  
-- CICS  
-- TSO/ISPF  
-- TK5 environment  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javipenya-dev&show_icons=true&theme=tokyonight" />
+</p>
 
-### **DevOps**
-- Linux  
-- Docker  
-- Kubernetes  
-- AWS  
-- GitHub Actions  
-- Bash scripting  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javipenya-dev&layout=compact&theme=tokyonight" />
+</p>
 
-### **Other**
-- Technical documentation  
-- Troubleshooting  
-- Continuous learning mindset  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=javipenya-dev&theme=tokyonight" />
+</p>
 
 ---
 
@@ -72,7 +92,6 @@ Sandbox for experiments, ideas, tests and creative exploration.
 - Preparing for remote technical roles  
 
 ---
-
 
 ## 📬 Contact
 
@@ -98,9 +117,7 @@ Sandbox for experiments, ideas, tests and creative exploration.
   Feel free to reach out for collaboration, questions or opportunities.
 </p>
 
-
 ---
-
 
 ## 🌐 Spanish Version (Versión en Español)
 
@@ -112,4 +129,5 @@ Me gusta aprender haciendo, documentar mis avances y crear repositorios claros y
 <p align="center">
   <strong>Thanks for visiting my profile!</strong>
 </p>
+
 
