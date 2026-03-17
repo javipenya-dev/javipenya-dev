@@ -17,64 +17,35 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
 
-<!-- Mainframe -->
-<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#58A6FF; font-weight:bold;">
-  <img src="https://img.shields.io/badge/-00599C?style=flat&logoColor=white" width="0" />
-  COBOL
-</span>
+<table align="center">
+  <tr>
+    <th>Mainframe</th>
+    <th>DevOps</th>
+    <th>Scripting</th>
+  </tr>
 
-<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#FFA657; font-weight:bold;">
-  JCL
-</span>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/COBOL-00599C?style=flat&logoColor=white" height="22" /> COBOL<br>
+      <img src="https://img.shields.io/badge/JCL-FF6F00?style=flat&logoColor=white" height="22" /> JCL<br>
+      <img src="https://img.shields.io/badge/CICS-0A66C2?style=flat&logoColor=white" height="22" /> CICS<br>
+      <img src="https://img.shields.io/badge/TSO%2FISPF-4D4D4D?style=flat&logoColor=white" height="22" /> TSO/ISPF
+    </td>
 
-<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#58A6FF; font-weight:bold;">
-  CICS
-</span>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="22" /> Linux<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="22" /> Docker<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="22" /> Kubernetes<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="22" /> AWS<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22" /> GitHub Actions
+    </td>
 
-<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#C9D1D9; font-weight:bold;">
-  TSO/ISPF
-</span>
-
-<br><br>
-
-<!-- DevOps -->
-<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:white; font-weight:bold;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22"/>
-  Linux
-</span>
-
-<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#2496ED; font-weight:bold;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/>
-  Docker
-</span>
-
-<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#326CE5; font-weight:bold;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="22"/>
-  Kubernetes
-</span>
-
-<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#FF9900; font-weight:bold;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="22"/>
-  AWS
-</span>
-
-<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#2088FF; font-weight:bold;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/>
-  GitHub Actions
-</span>
-
-<br><br>
-
-<!-- Scripting -->
-<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:white; font-weight:bold;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="22"/>
-  Bash
-</span>
-
-</p>
-
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="22" /> Bash
+    </td>
+  </tr>
+</table>
 
 ---
 
