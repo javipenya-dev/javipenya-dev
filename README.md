@@ -72,7 +72,7 @@ Sandbox for experiments, ideas, tests and creative exploration.
 - Preparing for remote technical roles  
 
 ---
----
+
 
 ## 📬 Contact
 
@@ -97,6 +97,9 @@ Sandbox for experiments, ideas, tests and creative exploration.
 <p align="center">
   Feel free to reach out for collaboration, questions or opportunities.
 </p>
+
+
+---
 
 
 ## 🌐 Spanish Version (Versión en Español)
