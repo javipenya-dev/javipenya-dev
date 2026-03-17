@@ -48,8 +48,6 @@
 </table>
 
 
----
-
 ## 🚀 About Me
 
 I am a hybrid-profile developer combining **Mainframe technologies** with **modern DevOps skills**.  
