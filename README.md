@@ -27,10 +27,10 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/COBOL-00599C?style=flat&logoColor=white" height="22" /> COBOL<br>
-      <img src="https://img.shields.io/badge/JCL-FF6F00?style=flat&logoColor=white" height="22" /> JCL<br>
-      <img src="https://img.shields.io/badge/CICS-0A66C2?style=flat&logoColor=white" height="22" /> CICS<br>
-      <img src="https://img.shields.io/badge/TSO%2FISPF-4D4D4D?style=flat&logoColor=white" height="22" /> TSO/ISPF
+      <img src="https://img.shields.io/badge/COBOL-00599C?style=flat" height="20" /> COBOL<br>
+      <img src="https://img.shields.io/badge/JCL-FF6F00?style=flat" height="20" /> JCL<br>
+      <img src="https://img.shields.io/badge/CICS-0A66C2?style=flat" height="20" /> CICS<br>
+      <img src="https://img.shields.io/badge/TSO%2FISPF-4D4D4D?style=flat" height="20" /> TSO/ISPF
     </td>
 
     <td align="center">
@@ -46,6 +46,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
