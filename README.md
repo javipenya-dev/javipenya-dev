@@ -20,26 +20,61 @@
 <p align="center">
 
 <!-- Mainframe -->
-<img src="https://img.shields.io/badge/COBOL-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JCL-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CICS-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TSO%2FISPF-4D4D4D?style=for-the-badge" />
+<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#58A6FF; font-weight:bold;">
+  <img src="https://img.shields.io/badge/-00599C?style=flat&logoColor=white" width="0" />
+  COBOL
+</span>
+
+<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#FFA657; font-weight:bold;">
+  JCL
+</span>
+
+<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#58A6FF; font-weight:bold;">
+  CICS
+</span>
+
+<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#C9D1D9; font-weight:bold;">
+  TSO/ISPF
+</span>
 
 <br><br>
 
 <!-- DevOps -->
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:white; font-weight:bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22"/>
+  Linux
+</span>
+
+<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#2496ED; font-weight:bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/>
+  Docker
+</span>
+
+<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#326CE5; font-weight:bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="22"/>
+  Kubernetes
+</span>
+
+<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#FF9900; font-weight:bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="22"/>
+  AWS
+</span>
+
+<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#2088FF; font-weight:bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/>
+  GitHub Actions
+</span>
 
 <br><br>
 
 <!-- Scripting -->
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<span style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:white; font-weight:bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="22"/>
+  Bash
+</span>
 
 </p>
+
 
 ---
 
