@@ -97,7 +97,8 @@ Sandbox for experiments, ideas, tests and creative exploration.
 <p align="center">
   Feel free to reach out for collaboration, questions or opportunities.
 </p>
----
+
+
 ## 🌐 Spanish Version (Versión en Español)
 
 Soy un desarrollador con perfil híbrido entre **Mainframe y DevOps**, combinando tecnologías tradicionales con herramientas modernas de automatización y cloud.  
