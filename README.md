@@ -72,7 +72,32 @@ Sandbox for experiments, ideas, tests and creative exploration.
 - Preparing for remote technical roles  
 
 ---
+---
 
+## 📬 Contact
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />  
+  <br>
+  <strong>📧 Email:</strong> room.101.dev@gmail.com  
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/javier-pe%C3%B1a-iglesias-51b32a174/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/javipenya-dev">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  Feel free to reach out for collaboration, questions or opportunities.
+</p>
+---
 ## 🌐 Spanish Version (Versión en Español)
 
 Soy un desarrollador con perfil híbrido entre **Mainframe y DevOps**, combinando tecnologías tradicionales con herramientas modernas de automatización y cloud.  
