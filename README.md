@@ -18,20 +18,21 @@
 ## 🧰 Tech Stack
 
 ### 🖥️ Mainframe
-- <img src="https://img.shields.io/badge/COBOL-00599C?style=flat" height="20" /> **COBOL**
-- <img src="https://img.shields.io/badge/JCL-FF6F00?style=flat" height="20" /> **JCL**
-- <img src="https://img.shields.io/badge/CICS-0A66C2?style=flat" height="20" /> **CICS**
-- <img src="https://img.shields.io/badge/TSO%2FISPF-4D4D4D?style=flat" height="20" /> **TSO/ISPF**
+- 💾 **COBOL**
+- 📜 **JCL**
+- 🖥️ **CICS**
+- 🗂️ **TSO/ISPF**
 
 ### ⚙️ DevOps
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="22"/> **Linux**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="22"/> **Docker**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="22"/> **Kubernetes**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="22"/> **AWS**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="22"/> **AWS**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22"/> **GitHub Actions**
 
 ### 🧩 Scripting
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="22"/> **Bash**
+
 
 ---
 
