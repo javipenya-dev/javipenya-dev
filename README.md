@@ -15,15 +15,69 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (Cards Style)
 
 <p align="center">
 
 <!-- Mainframe -->
-<img src="https://img.shields.io/badge/COBOL-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JCL-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CICS-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TSO%2FISPF-4D4D4D?style=for-the-badge" />
+<span style="display:inline-block; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#58A6FF; font-weight:bold;">
+  COBOL
+</span>
+
+<span style="display:inline-block; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#FFA657; font-weight:bold;">
+  JCL
+</span>
+
+<span style="display:inline-block; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#58A6FF; font-weight:bold;">
+  CICS
+</span>
+
+<span style="display:inline-block; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#C9D1D9; font-weight:bold;">
+  TSO/ISPF
+</span>
+
+<br><br>
+
+<!-- DevOps -->
+<span style="display:inline-block; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:white; font-weight:bold;">
+  Linux
+</span>
+
+<span style="display:inline-block; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#2496ED; font-weight:bold;">
+  Docker
+</span>
+
+<span style="display:inline-block; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#326CE5; font-weight:bold;">
+  Kubernetes
+</span>
+
+<span style="display:inline-block; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#FF9900; font-weight:bold;">
+  AWS
+</span>
+
+<span style="display:inline-block; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:#2088FF; font-weight:bold;">
+  GitHub Actions
+</span>
+
+<br><br>
+
+<!-- Scripting -->
+<span style="display:inline-block; padding:8px 14px; margin:4px; background:#0D1117; border:1px solid #30363D; border-radius:8px; color:white; font-weight:bold;">
+  Bash
+</span>
+
+</p>
+
+
+## 🧰 Tech Stack (Icons Style)
+
+<p align="center">
+
+<!-- Mainframe -->
+<img src="https://img.shields.io/badge/COBOL-0D1117?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/JCL-0D1117?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CICS-0D1117?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/TSO%2FISPF-0D1117?style=for-the-badge&logoColor=white" />
 
 <br><br>
 
@@ -41,7 +95,6 @@
 
 </p>
 
----
 
 ## 🚀 About Me
 
